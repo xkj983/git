@@ -1,1 +1,3 @@
 whatever changed, it's on new branch
+
+there's no confliction
